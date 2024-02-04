@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,SAAS;EACL,OAAO,EAAE,IAAI;EACb,GAAG,EAAE,KAAK",
+"sources": ["../../sass/sections/header-top.scss"],
+"names": [],
+"file": "header-top.css"
+}
